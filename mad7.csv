@@ -1,0 +1,25 @@
+﻿ids,labels,parents,value1,value2
+Jacob  & Ponnamma-Jossy  & Tessy,Jossy  & Tessy,Jacob  & Ponnamma,10,0
+Jacob  & Ponnamma-Jessy  & Roy,Jessy  & Roy,Jacob  & Ponnamma,20,0
+Jacob  & Ponnamma-Johny  & Suni,Johny  & Suni,Jacob  & Ponnamma,30,0
+Jacob  & Ponnamma-Joji  & Susmi,Joji  & Susmi,Jacob  & Ponnamma,40,0
+Jacob  & Ponnamma-Jomy  & Sini,Jomy  & Sini,Jacob  & Ponnamma,50,0
+Jacob  & Ponnamma-Jolly  & Mini,Jolly  & Mini,Jacob  & Ponnamma,60,0
+Jacob  & Ponnamma-Jince  & Marilyn,Jince  & Marilyn,Jacob  & Ponnamma,70,0
+Jossy  & Tessy-Allen ,Allen ,Jacob  & Ponnamma-Jossy  & Tessy,0,11
+Jossy  & Tessy-Kevin ,Kevin ,Jacob  & Ponnamma-Jossy  & Tessy,0,12
+Jossy  & Tessy-Jordan ,Jordan ,Jacob  & Ponnamma-Jossy  & Tessy,0,13
+Jessy  & Roy-Rojan & Greeshma,Rojan & Greeshma,Jacob  & Ponnamma-Jessy  & Roy,0,21
+Jessy  & Roy-Roshan,Roshan,Jacob  & Ponnamma-Jessy  & Roy,0,22
+Johny  & Suni-Asha ,Asha ,Jacob  & Ponnamma-Johny  & Suni,0,31
+Johny  & Suni-Akshay ,Akshay ,Jacob  & Ponnamma-Johny  & Suni,0,32
+Joji  & Susmi-Nikitha ,Nikitha ,Jacob  & Ponnamma-Joji  & Susmi,0,41
+Joji  & Susmi-Namitha ,Namitha ,Jacob  & Ponnamma-Joji  & Susmi,0,42
+Joji  & Susmi-Lordson ,Lordson ,Jacob  & Ponnamma-Joji  & Susmi,0,43
+Jomy  & Sini-Nayan ,Nayan ,Jacob  & Ponnamma-Jomy  & Sini,0,51
+Jomy  & Sini-Alphina ,Alphina ,Jacob  & Ponnamma-Jomy  & Sini,0,52
+Jolly  & Mini-Anna ,Anna ,Jacob  & Ponnamma-Jolly  & Mini,0,61
+Jolly  & Mini-Anoopa ,Anoopa ,Jacob  & Ponnamma-Jolly  & Mini,0,62
+Jolly  & Mini-Anton,Anton,Jacob  & Ponnamma-Jolly  & Mini,0,63
+Jince  & Marilyn-Josh ,Josh ,Jacob  & Ponnamma-Jince  & Marilyn,0,71
+Jince  & Marilyn-Grace ,Grace ,Jacob  & Ponnamma-Jince  & Marilyn,0,72
